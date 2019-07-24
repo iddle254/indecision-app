@@ -1,5 +1,5 @@
 node_modules
-package-lock
-package
-yarn-error
-yarn
+package-lock.json
+package.json
+yarn-error.log
+yarn.lock
